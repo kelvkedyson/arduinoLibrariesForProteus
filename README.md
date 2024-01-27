@@ -15,7 +15,7 @@ This repository contains a collection of Arduino libraries that can be used with
 - [**GSM Library for Proteus**](./GSM%20Library%20for%20Proteus.rar) - Library for GSM modules. 📞
 - [**Gas Sensor Library for Proteus**](./Gas%20Sensor%20Library%20for%20Proteus.rar) - Library for gas sensors. 💨
 - [**Heart Beat Sensor Library V2.0 for Proteus**](./Heart%20Beat%20Sensor%20Library%20V2.0%20for%20Proteus.rar) - Library for heart rate sensors. 💓
-- [**Infrared Sensor Library for Proteus**](./Infrared%20Sensor%20Library%20for%20Proteus.zip) - Library for infrared sensors. 🌈
+- [**Infrared Sensor Library for Proteus**](./Infrared%20Sensor%20Library%20for%20Proteus.zip) - Library for infrared sensors. 📡 
 - [**L298 Motor Driver Library for Proteus**](./L298%20Motor%20Driver%20Library%20for%20Proteus.rar) - Library for L298 motor drivers. 🚗
 - [**Magnetic Reed Switch Library for Proteus**](./Magnetic%20Reed%20Switch%20Library%20for%20Proteus.rar) - Library for magnetic reed switches. 🧲
 - [**New LCD Library for Proteus**](./New%20LCD%20Library%20for%20Proteus.rar) - New LCD library. 🖥️
