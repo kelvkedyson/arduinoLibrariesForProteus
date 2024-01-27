@@ -42,7 +42,7 @@ Contributions to this repository are welcome. If you have a library that you wou
 
 2. **Clone the Repository:** Clone your forked repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/Arduino-Libraries-For-Proteus.git
+   git clone https://github.com/vonshirco/arduinoLibrariesForProteus.git
    ```
 
 3. **Create a New Branch:** Create a new branch for your feature or bug fix:
