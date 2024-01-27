@@ -38,6 +38,22 @@ To use these libraries in Proteus, download the corresponding files and import t
 
 Contributions to this repository are welcome. If you have a library that you would like to add, please follow the contribution guidelines outlined in the repository.
 
----
+1. **Fork the Repository:** Click the "Fork" button at the top right of this repository to create a copy in your own GitHub account.
+
+2. **Clone the Repository:** Clone your forked repository to your local machine using the following command:
+  ```bash
+ git clone https://github.com/udsm-dhis2-lab/icare.git
+  ```
+
+3. **Create a New Branch:** Create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature/new-library
+   ```
+
+4. **Add Your Library:** Add your library files to the appropriate folder within the repository.
+
+5. **Commit Your Changes:** Commit your changes with a descriptive commit message:
+
+
 
 Feel free to customize the content further or add any additional details you find relevant.
